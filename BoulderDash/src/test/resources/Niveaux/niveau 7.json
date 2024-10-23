@@ -1,0 +1,52 @@
+{
+  "name": "Cave A. Intro",
+  "type": "Test",
+  "screen": 7,
+  "level": 1,
+  "timeMap": 150,
+  "diamondRequired": 1,
+  "diamondValue": 10,
+  "bonusDiamondValue": 15,
+  "patternMap": [
+    [
+      "B",
+      "B",
+      "B",
+      "B",
+      "B",
+      "B"
+    ],
+    [
+      "B",
+      "D",
+      "D",
+      "V",
+      "D",
+      "B"
+    ],
+    [
+      "B",
+      "D",
+      "D",
+      "S",
+      "D",
+      "B"
+    ],
+    [
+      "B",
+      "V",
+      "S",
+      "+",
+      "S",
+      "B"
+    ],
+    [
+      "B",
+      "B",
+      "B",
+      "B",
+      "B",
+      "B"
+    ]
+  ]
+}
